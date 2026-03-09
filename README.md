@@ -11,6 +11,7 @@ To build a predictive model that estimates the probability of default at the loa
 - Data preprocessing
 - Feature engineering
 - Machine learning classification models
+- Unsupervised Machine learning
 - Model evaluation
 
 ## Dataset
